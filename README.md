@@ -13,6 +13,13 @@ A Complete Guide to Flexbox: https://css-tricks.com/snippets/css/a-guide-to-flex
 
 Any other related source to complete the project goal will be post it here. 
 
+Color Palette:
+ - #080b1b
+ - #1a2456
+ - #ff501c
+ - #ff8b68
+ - #f0efed
+
 
 Note: this is not a fishing related project, this is a challenge to test the frontend skills I've been adquired last few weeks. 
 Do not fork or download this project for bad purposes, if you do it, its on you.
