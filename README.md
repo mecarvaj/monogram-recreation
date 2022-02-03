@@ -13,7 +13,7 @@ Sources:
  - Hide Menu on Scroll: https://www.w3schools.com/howto/howto_js_navbar_hide_scroll.asp
  - A Complete Guide to Flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-Any other related source to complete the project goal will be post it here. 
+Any other related source to complete the project goal will be post here. 
 
 Color Palette:
  - #080b1b
