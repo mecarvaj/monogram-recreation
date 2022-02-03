@@ -2,7 +2,7 @@
 Recreation of the webshop https://monogramcc.com/shop/
 
 This is a challenge proposed by the website frontendpractice.com
-The goal is to try to recreate the website as close as the same as I can. 
+The goal is to try to recreate the website the samer as I can. 
 
 Instructions: https://www.frontendpractice.com/project/monogram
 
